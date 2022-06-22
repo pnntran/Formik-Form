@@ -1,1 +1,19 @@
 # Formik-Form
+
+Description: This project sets up a Sign In form with the fields Email and Password, and the Submit button. It uses React and the library Formik to get values in and out of the form state, validate with error messages, and handle form submission.
+
+How to Run: To check out this code, clone the repository to your local machine. Run the command to point to the root folder, run npm install to install all dependencies, and run npm start to start the application browser. The React app will load inside the root element within the public/index.html file. The src/App.js file is where the main component of the React application resides. 
+
+Roadmap: This script can evolve to be a Sign Up form that includes First Name, Last Name, Email, Address, Phone Number, etc. 
+
+License information:
+
+MIT License
+
+Copyright (c) 2022 Phuong Tran
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
