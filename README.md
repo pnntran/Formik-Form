@@ -1,4 +1,4 @@
-# Formik-Form
+# A Sign In Formik Form
 
 Description: This project sets up a Sign In form with the fields Email and Password, and the Submit button. It uses React and the library Formik to get values in and out of the form state, validate with error messages, and handle form submission.
 
